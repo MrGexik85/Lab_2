@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589578020 source:c:\users\Саймон\desktop\lab_2\Задание_1\Матрица_смежности\main.cpp
+	<iostream>
+	<fstream>
+
